@@ -55,9 +55,9 @@ function App() {
               <TemperatureAndDetails weather={weather} />
             </div>
 
-            <div>
+            {/* <div>
               <LineChartSun weather={weather} />
-               </div>
+               </div> */}
 
             <div className="weatherPH">
               <div className="weatherP">
